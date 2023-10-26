@@ -1,7 +1,7 @@
 # Mall Customers Segmentation Analysis
 
 This repository contains a Jupyter Notebook that performs an analysis on a Mall Customers Segmentation dataset. The notebook explores the dataset, performs customer segmentation using clustering algorithms, and provides insights into customer behavior and characteristics.
-<img src="mall.jpeg" style="float: left; text-align: center;">
+<img src="mall.jpeg" alt="Image" width="300">
 
 ## Dataset Description
 
